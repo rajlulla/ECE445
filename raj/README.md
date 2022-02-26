@@ -24,3 +24,19 @@ Created block diagrams
 Finished design document
 
 Focused on cost and schedule parts of document
+
+## Week of 2/21
+
+
+### 2/22
+
+Attended design document check
+
+Implemented changes from DDC
+
+
+### 2/24
+
+Finalized design document and submitted
+
+Worked on soldering assignment and demonstrated to TA
