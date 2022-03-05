@@ -40,3 +40,18 @@ Implemented changes from DDC
 Finalized design document and submitted
 
 Worked on soldering assignment and demonstrated to TA
+
+
+## Week of 2/28
+
+
+### 3/2
+
+Attended design review meeting
+
+
+### 3/3
+
+Beginning work on first PCB order with Namin
+
+Established what data we can collect with the circuit
