@@ -64,3 +64,86 @@ We chose the _current, voltage, acceleration(x,y,z), velocity, x, y, z position_
 _Decided to write my own drivers for the devices _that were going to be connected to the STM32.
 
 Implementing the drivers for sensors in our project revealed itself to be more complex than I thought because of the complex connection between peripherals. So I decided to just use an Arduino to prioritize the completion of our project. Since our algorithm was mainly based on collecting the flight data.
+
+
+## Week of 3/7
+
+
+### 3/8
+
+I started working on collecting the data using Arduino. I did not have any experience in Arduino as well so I spent a couple of hours learning about that.
+
+After having some knowledge of Arduino circuits, we discussed how we wanted the data to be recorded(data format) in order to make it easier for Raj and me to implement the algorithm.
+
+We conclude on the format of data shown below:
+
+
+<table>
+  <tr>
+   <td>Is a spike occurring?
+   </td>
+   <td>0 or 1
+   </td>
+  </tr>
+  <tr>
+   <td>Current draw
+   </td>
+   <td>In amps, could be 0-20
+   </td>
+  </tr>
+  <tr>
+   <td>X acceleration
+   </td>
+   <td>In m/s/s
+   </td>
+  </tr>
+  <tr>
+   <td>Y acceleration
+   </td>
+   <td>In m/s/s
+   </td>
+  </tr>
+  <tr>
+   <td>Z acceleration
+   </td>
+   <td>In m/s/s
+   </td>
+  </tr>
+  <tr>
+   <td>X rotation
+   </td>
+   <td>Scale of 0-1
+   </td>
+  </tr>
+  <tr>
+   <td>Y rotation
+   </td>
+   <td>Scale of 0-1
+   </td>
+  </tr>
+  <tr>
+   <td>Z rotation
+   </td>
+   <td>Scale of 0-1
+   </td>
+  </tr>
+  <tr>
+   <td>Temperature
+   </td>
+   <td>In Celsius
+   </td>
+  </tr>
+</table>
+
+
+
+### 3/10
+
+I started to build the Arduino circuit to collect the data. I also worked on understanding the MPU6050 unit and wrote some starting code for it.
+
+I went ahead and ordered an SD card as well. We wanted to use a network like Bluetooth to transmit the data that we are recording to our database but we figured that that would not be a viable option because our batteries are supposed to be used by any drone out there, the network would be a constraint to the transmission of the data. While trying to work with Bluetooth for example, the maximum range of it was 33 feet.
+
+
+## 3/11
+
+Worked on circuit to store data to an SD card. See "circuit" image
