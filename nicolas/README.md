@@ -147,3 +147,12 @@ I went ahead and ordered an SD card as well. We wanted to use a network like Blu
 ## 3/11
 
 Worked on circuit to store data to an SD card. See "circuit" image
+
+## Week of 3/21
+
+
+## 3/24
+
+We received the SD Card module before spring break so I started using that in the circuit to collect data on it just after SpringBreak. Here is a snippet of the code that I implemented to record the data in the SD card:
+
+See "code" image

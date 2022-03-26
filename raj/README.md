@@ -218,3 +218,22 @@ I spent the day researching different ways to perform analysis of the data we ha
 * Using tensorflow to perform regression analysis
 
 Following spring break, I will test these two methods. The linear regression is the backup if I can't manage to get machine learning using tensorflow to work.
+
+## Week of 3/21
+
+
+### 3/23
+
+Today, I worked to test the linear regression methods of analysis. I tested out scikit-learn and statsmodels. An example output using our fake data from a statsmodels test is shown in the image “statsmodels_output”
+
+While this linear regression does provide a reliable output, using real machine learning in the form of tensorflow would still be preferred.
+
+
+### 3/25
+
+Tested out using tensorflow to create some sort of machine learning model. Despite spending the whole day trying to figure out how to use tensorflow to process this data, I decided to hold off until we had more data to try again. I found it difficult to get any sort of progress, but maybe getting real data will change the code side. We are planning to fly the plane next week and collect real flight data.
+
+
+### 3/26
+
+Worked on individual progress report
