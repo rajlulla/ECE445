@@ -156,3 +156,157 @@ Worked on circuit to store data to an SD card. See "circuit" image
 We received the SD Card module before spring break so I started using that in the circuit to collect data on it just after SpringBreak. Here is a snippet of the code that I implemented to record the data in the SD card:
 
 See "code" image
+
+
+## Week of 3/28
+
+
+## 3/28
+
+Helped Namin put in the PCB request.
+
+Worked on writing the individual progress report
+
+
+## 3/29
+
+Run our first flights and recorded the data while flying them on the SD card using my code.
+
+It was hard to fly the plane because we were not professionals. We decided after that to run fake flights - I would just hold the plane and Namin and Raj would throttle it up and down.
+
+
+## 3/30
+
+Finished writing my individual report and submitted it.
+
+Collected the data from our first flights and fake flights. Then extracted it from the SD card to work on it with Raj and started to think about the algorithm.
+
+Here is a summary of the data we recorded on that day:
+
+
+<table>
+  <tr>
+   <td>LFP Start V
+   </td>
+   <td>NCA Start V
+   </td>
+   <td>LFP duration
+   </td>
+   <td>NCA duration
+   </td>
+   <td>LFP end V
+   </td>
+   <td>NCA end V
+   </td>
+  </tr>
+  <tr>
+   <td>12.6 V
+   </td>
+   <td>12.6 V
+   </td>
+   <td>45 s
+   </td>
+   <td>13 s
+   </td>
+   <td>12.4 V
+   </td>
+   <td>12.4 V
+   </td>
+  </tr>
+  <tr>
+   <td>12.4 V
+   </td>
+   <td>12.4 V
+   </td>
+   <td>12 s
+   </td>
+   <td>30 s
+   </td>
+   <td>12.4 V
+   </td>
+   <td>12.1 V
+   </td>
+  </tr>
+  <tr>
+   <td>12.4 V
+   </td>
+   <td>12.1 V
+   </td>
+   <td>30s
+   </td>
+   <td>27s
+   </td>
+   <td>12.2 V
+   </td>
+   <td>11.9 V
+   </td>
+  </tr>
+</table>
+
+
+
+### 3/31
+
+We ran more fake flights again to get more data.
+
+Here is a resume of the flights we ran:
+
+
+<table>
+  <tr>
+   <td>LFP Start V
+   </td>
+   <td>NCA Start V
+   </td>
+   <td>LFP duration
+   </td>
+   <td>NCA duration
+   </td>
+   <td>LFP end V
+   </td>
+   <td>NCA end V
+   </td>
+  </tr>
+  <tr>
+   <td>11.9 V
+   </td>
+   <td>12.3 V
+   </td>
+   <td>78 s
+   </td>
+   <td>10 s
+   </td>
+   <td>11.5 V
+   </td>
+   <td>12.2 V
+   </td>
+  </tr>
+  <tr>
+   <td>11.5 V
+   </td>
+   <td>12.2 V
+   </td>
+   <td>5 s
+   </td>
+   <td>41 s
+   </td>
+   <td>11.5 V
+   </td>
+   <td>11.8 V
+   </td>
+  </tr>
+  <tr>
+   <td>11.5 V
+   </td>
+   <td>11.8 V
+   </td>
+   <td>60s
+   </td>
+   <td>5s
+   </td>
+   <td>11.1 V
+   </td>
+   <td>11.8 V
+   </td>
+  </tr>
+</table>
