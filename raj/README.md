@@ -382,3 +382,22 @@ We ran a few more test flights to better understand the power draws of each batt
    </td>
   </tr>
 </table>
+
+## Week of 4/4
+
+
+### 4/4
+
+Given our findings last week, we have decided to change the approach for the “algorithm” part of the project. I am going to design a python backend with a react frontend to take flight data, process it, and return some metrics to the user.
+
+Today, I wrote a script to take in JSON data and return a linear regression summary to the user. This script is in linear_regression.py
+
+
+### 4/6
+
+Today, I began work on the react frontend where we will process the data collected from the plane. I created the base structure of the react app and wrote the code to allow the user to upload a CSV and process it into a javascript array. The next step is to process this data into graphs for the user to see.
+
+
+### 4/7
+
+Today, I wrote the code to take the javascript arrays and process the data into graphs where the user can visualize their flight. An example of this is in the image “visualizations”.

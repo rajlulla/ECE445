@@ -310,3 +310,9 @@ Here is a resume of the flights we ran:
    </td>
   </tr>
 </table>
+
+## Week of 4/4
+
+At this point my work on the hardware part was done. The data were correctly recorded. So I started to give Raj some help on the algorithm part.
+
+At first, we started using a basic linear regression algorithm
