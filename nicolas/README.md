@@ -316,3 +316,9 @@ Here is a resume of the flights we ran:
 At this point my work on the hardware part was done. The data were correctly recorded. So I started to give Raj some help on the algorithm part.
 
 At first, we started using a basic linear regression algorithm
+
+## Week of 4/11
+
+Due to an issue of having a common ground, we could not record the voltages while flying. So I decided to learn about Coulomb counting to calculate the state of charge of each battery.
+
+I could not accomplish this due to time constraints with my other class however this is something that we are intending doing down the line

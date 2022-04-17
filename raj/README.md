@@ -401,3 +401,15 @@ Today, I began work on the react frontend where we will process the data collect
 ### 4/7
 
 Today, I wrote the code to take the javascript arrays and process the data into graphs where the user can visualize their flight. An example of this is in the image “visualizations”.
+
+## Week of 4/11
+
+
+### 4/11
+
+Today, I worked to host the python backend on Google Cloud. I had very little experience with hosting on Google Cloud prior to this and ran into major issues relating to permissions. I realized after an hour of searching that I had to open the API to any IP. In the long run, we hope to utilize the vast selection of machine learning toolkits and libraries available on Google Cloud, but for now we are just hosting a python script.
+
+
+### 4/14
+
+I wrote the code in the react frontend to send the data parsed from the CSV to the cloud hosted script. Again, I ran into major issues relating to permissions and found that I had to run Chrome in a special “no cors” mode. Once I did this, I was able to essentially finalize the frontend. For now, we will run this locally.
