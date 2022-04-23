@@ -413,3 +413,12 @@ Today, I worked to host the python backend on Google Cloud. I had very little ex
 ### 4/14
 
 I wrote the code in the react frontend to send the data parsed from the CSV to the cloud hosted script. Again, I ran into major issues relating to permissions and found that I had to run Chrome in a special “no cors” mode. Once I did this, I was able to essentially finalize the frontend. For now, we will run this locally.
+
+## Week of 4/18
+
+
+### 4/20
+
+Put finishing touches on frontend and backend
+
+Began work on final paper

@@ -322,3 +322,7 @@ At first, we started using a basic linear regression algorithm
 Due to an issue of having a common ground, we could not record the voltages while flying. So I decided to learn about Coulomb counting to calculate the state of charge of each battery.
 
 I could not accomplish this due to time constraints with my other class however this is something that we are intending doing down the line
+
+## Week of 4/18
+
+**Worked on the final paper and presentation**
